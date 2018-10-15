@@ -12,7 +12,7 @@ end
 
 def greeting(x, y)
  y = "paur"
- x=
+ x= "hi"
 end
 
 def return_a_value
